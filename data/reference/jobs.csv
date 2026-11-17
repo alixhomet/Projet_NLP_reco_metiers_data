@@ -1,0 +1,7 @@
+job_id,title,description,rome_code
+J01,Data Analyst,"EXEMPLE : le métier consiste à analyser les données de l'entreprise pour répondre à des questions métier. Il faut nettoyer les données, calculer des indicateurs et présenter les résultats sous forme de tableaux de bord et de rapports.",
+J02,Ingénieur NLP,"EXEMPLE : le métier consiste à concevoir des systèmes qui comprennent et produisent du langage naturel. Il faut préparer des corpus de textes, entraîner ou adapter des modèles de langage et mesurer leur qualité sur des tâches concrètes.",
+J03,Data Scientist,"EXEMPLE : le métier consiste à construire des modèles prédictifs à partir de données pour aider à décider. Il faut explorer les données, choisir et évaluer des algorithmes d'apprentissage, puis expliquer les résultats aux équipes métier.",
+J04,Ingénieur Machine Learning,"EXEMPLE : le métier consiste à transformer des prototypes de modèles en solutions fiables et performantes. Il faut écrire du code robuste, entraîner des modèles à grande échelle et les intégrer dans des applications.",
+J05,Ingénieur MLOps,"EXEMPLE : le métier consiste à automatiser le déploiement et la surveillance des modèles en production. Il faut mettre en place des conteneurs, des pipelines d'intégration continue et des outils de suivi de la qualité des modèles.",
+J06,Chef de projet data,"EXEMPLE : le métier consiste à piloter des projets de données, de l'expression du besoin à la livraison. Il faut planifier le travail, coordonner les équipes techniques et métier et rendre compte de l'avancement aux décideurs.",

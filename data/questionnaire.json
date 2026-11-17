@@ -1,0 +1,58 @@
+{
+  "_note": "EXEMPLE : questions provisoires, l'équipe les décide ensemble. L'id de section = clé du contrat de réponses (profile, likert, tools, open, guided, preferences). Types : single, number, likert, multi, open, yes_no_detail. 'block' = block_id du référentiel visé (Likert).",
+  "sections": [
+    {
+      "id": "profile",
+      "title": "1. Profil",
+      "questions": [
+        {"id": "niveau", "type": "single", "text": "EXEMPLE : quel est votre niveau d'études ?", "options": ["Bac+2", "Bac+3", "Bac+5", "Doctorat", "Autre"], "block": null},
+        {"id": "experience_annees", "type": "number", "text": "EXEMPLE : combien d'années d'expérience professionnelle avez-vous ?", "min": 0, "max": 40, "block": null}
+      ]
+    },
+    {
+      "id": "likert",
+      "title": "2. Auto-évaluation",
+      "questions": [
+        {"id": "stats", "type": "likert", "text": "EXEMPLE : à l'aise avec l'analyse de données et les statistiques (1 = débutant, 5 = expert)", "block": "B01"},
+        {"id": "ml", "type": "likert", "text": "EXEMPLE : à l'aise avec le machine learning (1 = débutant, 5 = expert)", "block": "B02"},
+        {"id": "nlp", "type": "likert", "text": "EXEMPLE : à l'aise avec le traitement du langage naturel (1 = débutant, 5 = expert)", "block": "B03"},
+        {"id": "python", "type": "likert", "text": "EXEMPLE : à l'aise avec la programmation (1 = débutant, 5 = expert)", "block": "B04"},
+        {"id": "gestion_projet", "type": "likert", "text": "EXEMPLE : à l'aise avec la gestion de projet (1 = débutant, 5 = expert)", "block": "B05"},
+        {"id": "cloud", "type": "likert", "text": "EXEMPLE : à l'aise avec le cloud et le déploiement (1 = débutant, 5 = expert)", "block": "B06"}
+      ]
+    },
+    {
+      "id": "tools",
+      "title": "3. Outils",
+      "questions": [
+        {"id": "outils", "type": "multi", "text": "EXEMPLE : quels outils avez-vous déjà utilisés ?", "options": ["Python", "SQL", "pandas", "scikit-learn", "PyTorch", "spaCy", "Git", "Docker", "Excel", "Power BI", "Jira", "AWS"], "block": null}
+      ]
+    },
+    {
+      "id": "open",
+      "title": "4. Expérience",
+      "questions": [
+        {"id": "q_projet", "type": "open", "text": "EXEMPLE : décrivez un projet dont vous êtes fier et votre rôle dedans.", "block": null},
+        {"id": "q_gout", "type": "open", "text": "EXEMPLE : quelles tâches vous plaisent le plus dans le travail avec les données ?", "block": null},
+        {"id": "q_appris", "type": "open", "text": "EXEMPLE : décrivez un sujet technique que vous avez appris seul récemment.", "block": null}
+      ]
+    },
+    {
+      "id": "guided",
+      "title": "5. Questions guidées",
+      "questions": [
+        {"id": "tokenisation", "type": "yes_no_detail", "text": "EXEMPLE : avez-vous déjà découpé ou nettoyé des textes pour une analyse ?", "detail_label": "Précisez le contexte", "block": "B03"},
+        {"id": "deploiement", "type": "yes_no_detail", "text": "EXEMPLE : avez-vous déjà mis un programme ou un modèle en ligne ?", "detail_label": "Précisez comment", "block": "B06"},
+        {"id": "evaluation", "type": "yes_no_detail", "text": "EXEMPLE : avez-vous déjà mesuré la qualité d'un modèle de prédiction ?", "detail_label": "Précisez avec quelles mesures", "block": "B02"}
+      ]
+    },
+    {
+      "id": "preferences",
+      "title": "6. Préférences de poste",
+      "questions": [
+        {"id": "secteur", "type": "multi", "text": "EXEMPLE : dans quels secteurs souhaitez-vous travailler ?", "options": ["télécom", "santé", "finance", "industrie", "éducation", "conseil"], "block": null},
+        {"id": "type_poste", "type": "multi", "text": "EXEMPLE : quel type de poste vous attire ?", "options": ["analyse", "recherche", "ingénierie", "management"], "block": null}
+      ]
+    }
+  ]
+}

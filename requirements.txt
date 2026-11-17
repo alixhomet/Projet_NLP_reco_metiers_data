@@ -1,0 +1,8 @@
+# Versions vérifiées avec Python 3.14.3 (installation propre dans un venv, 2026-11-17)
+streamlit==1.67.0
+pandas==3.1.1
+numpy==2.5.5
+plotly==7.1.0
+pytest==9.2.0
+nbstripout==0.9.1
+# À ajouter par P2 (PR dédiée) une fois testés : sentence-transformers, scikit-learn

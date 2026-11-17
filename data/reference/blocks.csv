@@ -1,0 +1,7 @@
+block_id,block_name,description
+B01,Data Analysis,"EXEMPLE : collecter, nettoyer, explorer et présenter des données pour éclairer une décision."
+B02,Machine Learning,"EXEMPLE : entraîner, évaluer et comparer des modèles qui apprennent à partir de données."
+B03,NLP,"EXEMPLE : traiter et comprendre automatiquement des textes en langage naturel."
+B04,Programmation,"EXEMPLE : écrire, tester et maintenir du code propre en équipe."
+B05,Gestion de projet,"EXEMPLE : planifier, coordonner et communiquer pour mener un projet à son terme."
+B06,Cloud & MLOps,"EXEMPLE : déployer, automatiser et surveiller des modèles et des applications en production."
