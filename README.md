@@ -4,6 +4,8 @@ Projet ECE ING5 Data & IA 2026-27 (Big Data & Data Science). Application Streaml
 
 **État : phase 1.** L'application tourne de bout en bout avec un mini-référentiel d'exemple (mentionné `EXEMPLE`) et des similarités factices. Chacun remplace ensuite son module sans bloquer les autres.
 
+**Suivi : ce qui est fait, ce qu'il reste à faire par personne et les décisions ouvertes sont dans [`docs/avancement.md`](docs/avancement.md).**
+
 ## Installation
 
 ```bash
