@@ -1,4 +1,4 @@
-"""Scoring : similarités, calibration, scores de bloc, couverture (docs/Conception.md).
+"""Scoring : similarités, calibration, scores de bloc, couverture (docs/conception.md).
 
 Propriétaire : P3 (Scoring). PHASE 1 : seules les SIMILARITÉS sont factices
 (`fake_unit` : valeur déterministe issue d'un hash, sans SBERT). Calibration, plancher
