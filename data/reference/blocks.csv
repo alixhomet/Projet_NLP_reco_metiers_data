@@ -1,7 +1,7 @@
 block_id,block_name,description
-B01,Data Analysis,"EXEMPLE : collecter, nettoyer, explorer et présenter des données pour éclairer une décision."
-B02,Machine Learning,"EXEMPLE : entraîner, évaluer et comparer des modèles qui apprennent à partir de données."
-B03,NLP,"EXEMPLE : traiter et comprendre automatiquement des textes en langage naturel."
-B04,Programmation,"EXEMPLE : écrire, tester et maintenir du code propre en équipe."
-B05,Gestion de projet,"EXEMPLE : planifier, coordonner et communiquer pour mener un projet à son terme."
-B06,Cloud & MLOps,"EXEMPLE : déployer, automatiser et surveiller des modèles et des applications en production."
+B01,Analyse & statistiques,"Explorer, modéliser et interpréter des données avec des méthodes statistiques pour éclairer une décision."
+B02,IA & Machine Learning,"Concevoir, évaluer, déployer et maintenir des modèles d'apprentissage automatique et des systèmes d'IA."
+B03,Ingénierie & bases de données,"Concevoir, administrer, sécuriser et faire circuler les données dans des bases et des systèmes fiables."
+B04,BI & aide à la décision,"Construire des tableaux de bord, des reportings et des outils décisionnels pour piloter l'activité."
+B05,Gouvernance & conformité,"Encadrer l'usage des données : RGPD, confidentialité, sécurité, stratégie et qualité à l'échelle de l'organisation."
+B06,Pilotage & communication,"Mener un projet, collaborer avec les équipes, comprendre les besoins et présenter des résultats clairement."

@@ -1,31 +1,71 @@
 competency_id,label,description,block_id,keywords
-C01,Nettoyage de données,"EXEMPLE : nettoyer, normaliser et valider des données brutes avant analyse","B01","nettoyage;valeurs manquantes;doublons;données brutes"
-C02,Statistiques descriptives,"EXEMPLE : calculer et interpréter moyennes, médianes, dispersions et corrélations pour résumer un jeu de données","B01","moyenne;médiane;écart-type;corrélation"
-C03,Visualisation de données,"EXEMPLE : construire des graphiques et tableaux de bord lisibles pour présenter des résultats à un public non technique","B01","graphique;dashboard;tableau de bord;Power BI;matplotlib;Excel"
-C04,Requêtes SQL,"EXEMPLE : interroger une base relationnelle avec des jointures, des agrégations et des filtres pour extraire les données utiles","B01","SQL;jointure;base de données;requête"
-C05,Tests et indicateurs,"EXEMPLE : définir des indicateurs de suivi et conduire des tests statistiques pour valider une hypothèse métier","B01","KPI;indicateur;test statistique;hypothèse"
-C06,Classification supervisée,"EXEMPLE : entraîner un modèle qui prédit une catégorie à partir d'exemples étiquetés, comme la détection de fraude","B02","classification;supervisé;scikit-learn;prédiction"
-C07,Régression,"EXEMPLE : prédire une valeur numérique continue, comme un prix ou une durée, à partir de variables explicatives","B02","régression;prédire;scikit-learn;variable explicative"
-C08,Évaluation de modèles,"EXEMPLE : mesurer la qualité d'un modèle avec validation croisée, métriques adaptées et analyse des erreurs","B02","validation croisée;précision;rappel;F1;métrique"
-C09,Clustering,"EXEMPLE : regrouper des observations similaires sans étiquettes pour découvrir des segments ou des structures cachées","B02","clustering;kmeans;segmentation;non supervisé"
-C10,Réseaux de neurones,"EXEMPLE : concevoir et entraîner des réseaux de neurones profonds pour des tâches de vision, de texte ou de séries","B02","deep learning;réseau de neurones;PyTorch;TensorFlow"
-C11,Prétraitement de textes,"EXEMPLE : nettoyer, découper et normaliser des textes en langage naturel avant de les analyser automatiquement","B03","tokenisation;lemmatisation;spaCy;nettoyage de texte"
-C12,Embeddings de phrases,"EXEMPLE : représenter des phrases par des vecteurs denses pour mesurer leur proximité de sens avec la similarité cosinus","B03","embedding;SBERT;similarité cosinus;vecteur"
-C13,Classification de textes,"EXEMPLE : classer des textes selon leur thème ou leur sentiment, par exemple des avis clients ou des courriels","B03","analyse de sentiment;classification de texte;avis clients"
-C14,Extraction d'entités,"EXEMPLE : repérer dans un texte les personnes, lieux, organisations et dates pour structurer l'information","B03","entités nommées;NER;extraction d'information"
-C15,Transformers,"EXEMPLE : adapter des modèles de langage pré-entraînés de type transformer à une tâche précise par ajustement fin","B03","transformer;BERT;fine-tuning;Hugging Face"
-C16,Programmation Python,"EXEMPLE : écrire du code Python clair et réutilisable, avec fonctions, modules et gestion des erreurs","B04","Python;fonction;module;script"
-C17,Manipulation de tableaux,"EXEMPLE : transformer, fusionner et agréger des tableaux de données avec pandas et numpy de façon efficace","B04","pandas;numpy;dataframe;agrégation"
-C18,Tests unitaires,"EXEMPLE : écrire des tests automatiques pour vérifier qu'un programme produit les résultats attendus après chaque modification","B04","pytest;test unitaire;test automatique"
-C19,Gestion de versions,"EXEMPLE : travailler en équipe avec Git : branches, commits, relectures de code et résolution de conflits","B04","Git;GitHub;branche;pull request"
-C20,Conception modulaire,"EXEMPLE : structurer une application en modules indépendants avec des interfaces claires et une documentation à jour","B04","architecture;module;interface;documentation"
-C21,Planification de projet,"EXEMPLE : découper un projet en tâches, estimer les charges et suivre l'avancement par rapport aux échéances","B05","planning;échéance;tâches;Jira"
-C22,Méthodes agiles,"EXEMPLE : organiser le travail en itérations courtes avec des revues régulières, par exemple avec Scrum ou Kanban","B05","agile;Scrum;Kanban;sprint"
-C23,Communication avec les parties prenantes,"EXEMPLE : recueillir les besoins des utilisateurs et expliquer les choix techniques à des interlocuteurs non spécialistes","B05","besoin;client;utilisateur;vulgarisation"
-C24,Gestion des risques,"EXEMPLE : identifier les risques d'un projet, évaluer leur gravité et prévoir des actions pour les limiter","B05","risque;anticipation;plan d'action"
-C25,Restitution et documentation,"EXEMPLE : rédiger des rapports et présenter oralement une démarche et ses résultats de manière claire et argumentée","B05","rapport;présentation;soutenance;documentation"
-C26,Conteneurisation,"EXEMPLE : empaqueter une application et ses dépendances dans un conteneur Docker pour la rendre reproductible","B06","Docker;conteneur;image;reproductible"
-C27,Déploiement de modèles,"EXEMPLE : mettre un modèle en production derrière une API afin que d'autres services puissent l'interroger","B06","API;FastAPI;production;déploiement"
-C28,Intégration continue,"EXEMPLE : automatiser les tests et le déploiement avec des pipelines CI/CD à chaque changement de code","B06","CI/CD;GitHub Actions;pipeline;automatisation"
-C29,Suivi et monitoring,"EXEMPLE : suivre les expériences, les versions de modèles et leur dérive en production grâce à des métriques","B06","MLflow;monitoring;dérive;suivi d'expériences"
-C30,Services cloud,"EXEMPLE : utiliser des services cloud de calcul, de stockage et de bases de données pour héberger une solution","B06","AWS;Azure;GCP;cloud"
+C01,Analyse exploratoire de données,"Collecter, structurer et explorer des données pour y repérer des tendances et des informations utiles",B01,pandas;Python;Excel;exploration;données
+C02,Modélisation statistique,"Choisir et appliquer un modèle statistique adapté : régression, tests d'hypothèses ou analyse multivariée",B01,régression;tests statistiques;statistiques;modélisation
+C03,Plan d'analyse et protocole expérimental,Concevoir un plan d'analyse statistique et un protocole d'expérimentation avant de recueillir les données,B01,plan d'expérience;protocole;randomisation;essai clinique
+C04,Prévision,"Construire des modèles de prévision pour anticiper des ventes, des volumes ou des évolutions futures",B01,prévision;séries temporelles;forecast
+C05,Logiciels statistiques,"Utiliser des logiciels statistiques comme R, SAS ou Python pour traiter et analyser des données",B01,R;SAS;SPSS;Python;Stata
+C06,Qualité et cohérence des données,"Contrôler la qualité, la cohérence et la fiabilité des données recueillies avant de les analyser",B01,qualité des données;nettoyage;valeurs manquantes;doublons
+C07,Études et recherche appliquée,Mener une étude ou un projet de recherche en définissant la méthode de recueil et d'analyse des données,B01,étude;recherche;méthodologie;enquête
+C08,Interprétation et recommandations,Interpréter les résultats d'une analyse pour formuler des recommandations et éclairer une décision,B01,interprétation;recommandation;décision;insights
+C09,Rapport statistique,Rédiger la partie statistique d'un rapport d'étude ou d'une publication scientifique,B01,rapport;publication;statistiques
+C10,Analyse du comportement client,Analyser les comportements et les tendances de consommation des clients pour en tirer des insights marketing,B01,marketing;clients;segmentation;consommation
+C11,Modélisation mathématique,Concevoir des modèles mathématiques de calcul et de simulation pour représenter un phénomène observé,B01,mathématiques;simulation;modélisation;calcul
+C12,Collecte de données,"Organiser et optimiser la collecte de données par enquêtes, questionnaires ou recueil sur le terrain",B01,collecte;enquête;questionnaire;recueil
+C13,Analyse des risques,Analyser et prévenir les risques d'une activité à partir de données et d'indicateurs chiffrés,B01,risques;indicateurs;prévention
+C14,Algorithmes d'apprentissage automatique,Concevoir et développer des algorithmes d'apprentissage automatique adaptés à un problème donné,B02,machine learning;scikit-learn;PyTorch;TensorFlow;apprentissage automatique
+C15,Modèles prédictifs,Développer des modèles prédictifs à partir de données historiques pour anticiper un résultat métier,B02,prédiction;classification;scikit-learn;modèle prédictif
+C16,Exploitation de solutions d'IA,Utiliser et intégrer des solutions existantes de data science ou d'intelligence artificielle dans un projet,B02,IA;data science;intelligence artificielle;LLM
+C17,Optimisation des modèles,Optimiser la précision et la rapidité des algorithmes et des systèmes d'intelligence artificielle,B02,optimisation;hyperparamètres;performance
+C18,Évaluation et test de modèles,"Tester, évaluer et valider un modèle d'intelligence artificielle avant son déploiement",B02,évaluation;validation croisée;métriques;test
+C19,Mise en production de modèles,Déployer un modèle d'intelligence artificielle en production puis surveiller ses performances en continu,B02,MLOps;déploiement;monitoring;Docker
+C20,Maintenance des modèles,Maintenir et réentraîner les modèles d'IA lorsque les données ou le contexte d'usage évoluent,B02,réentraînement;dérive;maintenance
+C21,IA embarquée,Concevoir et intégrer des systèmes d'intelligence artificielle embarqués dans des appareils électroniques,B02,embarqué;edge;systèmes embarqués;électronique
+C22,Éthique et impact de l'IA,Respecter les principes éthiques et évaluer les risques et l'impact environnemental des projets d'IA,B02,éthique;biais;IA responsable;impact
+C23,Documentation et revue de code IA,Documenter les architectures d'IA et relire le code pour garantir la qualité des développements,B02,documentation;revue de code;Git
+C24,Veille en intelligence artificielle,Suivre les nouvelles méthodes et technologies d'intelligence artificielle pour anticiper leurs évolutions,B02,veille;état de l'art;IA
+C25,Modélisation de bases de données,"Modéliser une base de données en définissant ses tables, ses relations et son architecture",B03,modèle relationnel;schéma;SGBD;MCD
+C26,Requêtes et gestion de bases de données,"Interroger, alimenter et gérer des bases de données relationnelles ou NoSQL avec le langage SQL",B03,SQL;NoSQL;PostgreSQL;MySQL;MongoDB
+C27,Stockage et données massives,Définir des solutions de stockage et de partitionnement adaptées à de grands volumes de données,B03,big data;data lake;entrepôt de données;Spark;Hadoop
+C28,Administration de SGBD,"Installer, configurer et administrer un système de gestion de base de données et résoudre ses incidents",B03,administration;Oracle;PostgreSQL;SGBD
+C29,Sauvegarde et réplication,"Mettre en place des sauvegardes, des réplications et des plans de reprise pour protéger les données",B03,sauvegarde;réplication;PRA;disponibilité
+C30,Intégrité et performance des bases,Surveiller l'intégrité des données et optimiser les performances d'une base de données et de ses requêtes,B03,intégrité;indexation;performance;optimisation SQL
+C31,Intégration de systèmes et flux de données,Relier bases de données et applications entre elles pour faire circuler les données automatiquement,B03,ETL;API;intégration;pipeline
+C32,Automatisation des traitements,Automatiser des traitements et des flux de données à l'aide de scripts et de procédures,B03,script;automatisation;Python;Airflow
+C33,Développement d'applications data,Concevoir et développer une application ou une solution logicielle reliée à une base de données,B03,développement;Python;Java;Git;application
+C34,Tests logiciels et recette,Tester une application ou un système d'information et piloter sa recette avant la mise en production,B03,tests;recette;pytest;qualité logicielle
+C35,Mise en production et cloud,Mettre une solution logicielle en production et déployer des services sur une plateforme cloud,B03,cloud;AWS;Azure;GCP;Docker;Kubernetes
+C36,Maintenance des infrastructures,Assurer la maintenance des systèmes et infrastructures de données et planifier leurs mises à jour,B03,maintenance;infrastructure;mises à jour;serveurs
+C37,Cybersécurité technique,"Sécuriser les systèmes avec des pare-feu, des droits d'accès, du chiffrement et une gestion des risques",B03,cybersécurité;pare-feu;chiffrement;droits d'accès
+C38,Spécifications et documentation technique,"Rédiger un cahier des charges, des spécifications techniques et la documentation d'une solution",B03,cahier des charges;spécifications;documentation
+C39,Tableaux de bord,Concevoir des tableaux de bord et des visualisations pour suivre les indicateurs de performance,B04,Power BI;Tableau;Qlik;Excel;dashboard;KPI;dataviz
+C40,Reporting,"Produire un reporting régulier sur les ventes, la finance ou l'activité pour la hiérarchie",B04,reporting;rapport;Excel;suivi d'activité
+C41,Outils d'aide à la décision,Mettre en place des outils décisionnels qui aident les équipes à prendre de meilleures décisions,B04,informatique décisionnelle;BI;aide à la décision
+C42,Analyse des indicateurs de performance,Analyser les indicateurs de performance et les tendances du marché ou des usages clients,B04,KPI;indicateurs;tendances;performance
+C43,Évaluation des solutions BI,Évaluer l'efficacité des outils analytiques et l'impact des solutions BI sur l'entreprise,B04,BI;évaluation;outils analytiques
+C44,Déploiement de solutions BI,Planifier et piloter le déploiement d'une solution de Business Intelligence dans une entreprise,B04,déploiement BI;PGI;ERP;intégration
+C45,Accompagnement des utilisateurs,Former les utilisateurs aux outils de données et les accompagner dans leur prise en main,B04,formation;utilisateurs;accompagnement;adoption
+C46,Produits data dans les processus métiers,Intégrer des produits data dans les processus métiers pour améliorer leur efficacité,B04,processus métier;optimisation;produit data
+C47,RGPD et cadre réglementaire,Appliquer le RGPD et le cadre juridique qui encadre la collecte et l'usage des données,B05,RGPD;réglementation;CNIL;conformité
+C48,Confidentialité des données,Mettre en place des politiques de confidentialité et contrôler l'accès aux données sensibles,B05,confidentialité;données sensibles;accès;anonymisation
+C49,Procédures de sécurité des données,Définir des procédures et des politiques de sécurité pour protéger les données de l'organisation,B05,sécurité des données;politique de sécurité;protection
+C50,Gestion des incidents de données,Gérer les incidents et les violations de données et assurer le lien avec les autorités de contrôle,B05,incident;violation de données;CNIL;notification
+C51,Stratégie et gouvernance des données,Définir la stratégie et les politiques de gestion des données à l'échelle d'une organisation,B05,gouvernance;data management;stratégie data
+C52,Cartographie des données,"Cartographier les données de l'organisation : sources, flux, responsables et usages",B05,cartographie;registre;flux de données;catalogue
+C53,Sensibilisation à la protection des données,Sensibiliser et former les équipes aux enjeux et aux règles de protection des données,B05,sensibilisation;formation;RGPD
+C54,Contrôle des systèmes d'information,Contrôler la qualité des données et la fiabilité des systèmes d'information de l'organisation,B05,contrôle;qualité;système d'information
+C55,Relation avec les fournisseurs,Évaluer et négocier avec les fournisseurs de solutions informatiques et de sécurité des données,B05,fournisseurs;négociation;achats IT
+C56,Audit et mesures correctives,Réaliser un audit des données ou des processus et proposer des mesures correctives,B05,audit;contrôle;mesures correctives
+C57,Gestion de projet,"Planifier un projet data, suivre son budget, ses délais et coordonner les prestataires",B06,gestion de projet;planning;budget;Jira
+C58,Méthodes agiles,Animer une démarche agile et piloter les étapes d'un projet innovant par itérations,B06,agile;Scrum;sprint;Jira
+C59,Management d'équipe,"Animer, coordonner et superviser une équipe ou des responsables de projets",B06,management;encadrement;coordination
+C60,Présentation de résultats,Présenter des résultats et des insights clairs à des interlocuteurs non techniques,B06,présentation;storytelling;synthèse;vulgarisation
+C61,Communication professionnelle,Communiquer clairement à l'oral et à l'écrit avec ses interlocuteurs internes et externes,B06,communication;oral;écrit
+C62,Recueil des besoins,Recueillir et analyser les besoins des clients ou des utilisateurs puis les traduire en solutions,B06,besoins;cahier des charges;utilisateurs;client
+C63,Collaboration en équipe pluridisciplinaire,"Collaborer avec des équipes métier, techniques et IT pour mener un projet commun",B06,collaboration;équipe;pluridisciplinaire
+C64,Animation de réunions et d'ateliers,"Préparer et animer des réunions, des ateliers ou des groupes de travail",B06,réunion;atelier;animation;brainstorming
+C65,Conseil et proposition commerciale,Rédiger une proposition commerciale et argumenter des choix techniques auprès d'un client,B06,conseil;proposition commerciale;appel d'offres;argumentation
+C66,Veille et montée en compétences,Réaliser une veille documentaire et technologique et actualiser régulièrement ses connaissances,B06,veille;autoformation;technologies
+C67,Amélioration continue,Proposer des pistes d'amélioration des solutions à partir des retours des utilisateurs,B06,amélioration continue;retours utilisateurs
+C68,Anglais professionnel,"Lire, écrire et échanger en anglais dans un contexte professionnel et technique",B06,anglais;documentation technique;international
+C69,Accompagnement du changement,Accompagner le changement et faciliter l'adoption des technologies numériques dans l'organisation,B06,conduite du changement;transformation numérique;innovation
+C70,Support technique,Apporter un soutien technique aux équipes et aux utilisateurs face aux problèmes rencontrés,B06,support;assistance;dépannage
