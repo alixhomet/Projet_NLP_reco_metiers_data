@@ -1,0 +1,150 @@
+code_ogr,libelle_savoir,categorie_savoir,sous_categorie_savoir,nb_metiers,metiers
+113255,Utilisation d'outils Business Intelligence (BI) - Informatique décisionnelle,Domaines d'expertise,"Logiciels, progiciels",8,M1405;M1414;M1419;M1423;M1811;M1824;M1851;M1868
+113798,Programmation en Python,Domaines d'expertise,Langages informatiques,6,M1405;M1419;M1811;M1824;M1868;M1889
+109794,Intelligence artificielle,Domaines d'expertise,Expertises scientifiques,5,M1811;M1851;M1868;M1872;M1889
+101315,Analyse de données expérimentales,Domaines d'expertise,Expertises scientifiques,4,K2403;M1405;M1824;M1851
+117218,Application des méthodes de machine learning dans BI,Domaines d'expertise,"Logiciels, progiciels",4,M1405;M1824;M1851;M1872
+109870,Java,Domaines d'expertise,Langages informatiques,4,M1405;M1811;M1824;M1868
+102732,Langages de programmation informatique,Domaines d'expertise,Langages informatiques,4,K2403;M1405;M1824;M1868
+100113,Logiciels de gestion de base de données,Domaines d'expertise,"Logiciels, progiciels",4,K2403;M1405;M1419;M1872
+109779,Modélisation informatique,Normes et procédés,"Méthodes, procédés, procédures",4,M1811;M1824;M1872;M1894
+499066,Utilisation de logiciels d'analyse statistique,Domaines d'expertise,"Logiciels, progiciels",4,K2403;M1405;M1414;M1419
+481236,Analyse prédictive,Domaines d'expertise,Expertises scientifiques,3,M1414;M1851;M1872
+115921,Big data Analytics,Domaines d'expertise,Expertises techniques,3,K2403;M1405;M1419
+120803,Programmation logicielle,Domaines d'expertise,"Logiciels, progiciels",3,M1811;M1824;M1868
+124908,Protection des données numériques,Normes et procédés,"Méthodes, procédés, procédures",3,K1906;M1423;M1894
+109854,Systèmes d'exploitation informatique,Domaines d'expertise,"Logiciels, progiciels",3,M1824;M1868;M1894
+404053,Systèmes de gestion de base de données,Domaines d'expertise,"Logiciels, progiciels",3,M1851;M1868;M1872
+117221,Technologies HADOOP,Domaines d'expertise,Expertises techniques,3,M1405;M1811;M1868
+480388,Visualisation de données,Domaines d'expertise,Expertises scientifiques,3,M1414;M1423;M1872
+109531,Algorithmique,Domaines d'expertise,Langages informatiques,2,M1414;M1868
+116349,Déploiement de services cloud (cloud computing),Domaines d'expertise,"Logiciels, progiciels",2,M1811;M1868
+481235,Développement de tableaux de bord,Domaines d'expertise,"Logiciels, progiciels",2,M1423;M1851
+101400,Econométrie,Domaines d'expertise,Sciences humaines,2,K2403;M1419
+102216,Gestion budgétaire,Domaines d'expertise,Expertises techniques,2,K2403;M1405
+494932,Gestion de projets IA,Domaines d'expertise,Expertises techniques,2,M1873;M1889
+495669,Intégration de données,Domaines d'expertise,"Logiciels, progiciels",2,M1423;M1872
+404054,"Maîtrise d'un outil de gestion de flux (Kafka, Flink...)",Domaines d'expertise,"Logiciels, progiciels",2,M1811;M1868
+118428,Modèle informatique client-serveur,Domaines d'expertise,Expertises techniques,2,M1811;M1868
+101397,Modélisation et simulation,Domaines d'expertise,"Logiciels, progiciels",2,K2403;M1405
+117685,Modélisation statistique,Domaines d'expertise,Expertises scientifiques,2,K2403;M1405
+113277,Méthode AGILE,Normes et procédés,"Méthodes, procédés, procédures",2,M1423;M1824
+109532,Méthodes de prospective,Normes et procédés,"Méthodes, procédés, procédures",2,K2403;M1405
+479205,Optimisation de la performance des systèmes BI,Normes et procédés,"Méthodes, procédés, procédures",2,M1824;M1872
+119308,Règlement Général européen sur la Protection des Données (RGPD),Normes et procédés,"Règlementations, normes",2,K1906;M1824
+106844,Règles de sécurité Informatique et Télécoms,Normes et procédés,"Règlementations, normes",2,K1906;M1894
+120743,Système de Gestion de Bases de Données (SGBD),Domaines d'expertise,"Logiciels, progiciels",2,M1405;M1894
+491917,Adaptation des IA aux besoins spécifiques,Domaines d'expertise,Expertises techniques,1,M1889
+491943,Administration de bases de données,"Produits, outils et matières","Outils, machines, équipement matériel",1,M1423
+491944,Administration de bases de données MySQL,Domaines d'expertise,"Logiciels, progiciels",1,M1868
+479840,Analyse de données client,Domaines d'expertise,Expertises techniques,1,M1419
+491979,Analyse de données en temps réel pour IA embarquée,Techniques professionnelles,Autres techniques professionnelles,1,M1873
+478203,Analyse de données opérationnelles,Domaines d'expertise,Langages informatiques,1,M1419
+491983,Analyse de données programmatiques,Domaines d'expertise,Langages informatiques,1,M1419
+103027,Analyse de l'audience cible,Techniques professionnelles,Autres techniques professionnelles,1,M1414
+481979,Analyse de la variance,Domaines d'expertise,Expertises scientifiques,1,M1414
+492029,Analyse de la vulnérabilité des systèmes informatiques,Domaines d'expertise,Expertises techniques,1,K1906
+121863,Analyse de risque,Domaines d'expertise,Expertises techniques,1,K1906
+481976,Analyse de régression,Domaines d'expertise,Expertises scientifiques,1,M1414
+479210,Analyse des besoins des utilisateurs pour les solutions BI,Domaines d'expertise,Langages informatiques,1,M1824
+477094,Analyse statistique avancée,Domaines d'expertise,Expertises scientifiques,1,M1423
+110150,Anglais technique,Domaines d'expertise,Langues,1,M1811
+109862,Architecture web,Domaines d'expertise,"Logiciels, progiciels",1,M1868
+492275,Audit de sécurité des bases de données,Domaines d'expertise,Expertises techniques,1,M1894
+123486,Audit des systèmes d'information,Domaines d'expertise,Expertises techniques,1,K1906
+117074,Biocontamination,Domaines d'expertise,Expertises scientifiques,1,K2403
+104585,Biologie,Domaines d'expertise,Expertises scientifiques,1,K2403
+404558,Bonnes connaissances des techniques de gestion des données et programmation informatique,Domaines d'expertise,Langages informatiques,1,M1423
+481086,Collaboration avec des ingénieurs en conception,Domaines d'expertise,Expertises techniques,1,M1873
+476759,Collaboration interdisciplinaire,Domaines d'expertise,Expertises scientifiques,1,M1889
+119712,Conception d'interfaces utilisateur (UI),Normes et procédés,"Méthodes, procédés, procédures",1,M1873
+492609,Conception de politiques de rétention des données,Normes et procédés,"Règlementations, normes",1,M1868
+492631,Conception de tableaux de bord de gestion,Domaines d'expertise,"Logiciels, progiciels",1,M1419
+478232,Conformité des processus informatiques,Normes et procédés,"Règlementations, normes",1,K1906
+124696,Conformité réglementaire,Normes et procédés,"Règlementations, normes",1,M1851
+492668,Connaissance approfondie en mathématiques,Domaines d'expertise,Expertises scientifiques,1,M1889
+493442,Connaissance des réglementations sur la protection des données,Normes et procédés,"Règlementations, normes",1,M1423
+404055,Connaissance des solutions de manipulation des données ETL/LET,Domaines d'expertise,"Logiciels, progiciels",1,M1894
+119314,Cryptologie,Domaines d'expertise,Expertises scientifiques,1,M1811
+480222,Diagnostic de pannes,Techniques professionnelles,"Techniques manuelles, artisanales, industrielles",1,M1873
+124809,Documentation technique des équipements,Normes et procédés,"Documentations, cartes et plans",1,M1824
+494063,Documentation technique pour les systèmes BI,Domaines d'expertise,Expertises techniques,1,M1872
+494069,Documentation technique pour systèmes IA,Techniques professionnelles,Autres techniques professionnelles,1,M1873
+119310,Droit du numérique,Normes et procédés,"Règlementations, normes",1,K1906
+478664,Développement de logiciels embarqués,Domaines d'expertise,"Logiciels, progiciels",1,M1873
+108537,Développement de méthodes de recherche,Normes et procédés,"Méthodes, procédés, procédures",1,K2403
+493940,Développement de pipelines de données,Domaines d'expertise,Langages informatiques,1,M1423
+493946,Développement de produits basés sur l'IA,Domaines d'expertise,Expertises techniques,1,M1889
+479203,Développement de scripts pour l'automatisation des processus,Techniques professionnelles,Autres techniques professionnelles,1,M1824
+115914,Economie du développement durable,Domaines d'expertise,Expertises scientifiques,1,M1405
+494131,Esprit d'initiative,Domaines d'expertise,Expertises techniques,1,M1423
+494232,Evaluation de modèles d'IA,Domaines d'expertise,Expertises techniques,1,M1889
+494251,Evaluation des besoins des utilisateurs,Domaines d'expertise,"Logiciels, progiciels",1,M1872
+494557,Formation des utilisateurs sur les bases de données,Domaines d'expertise,"Logiciels, progiciels",1,M1894
+480585,Formation des utilisateurs sur les pratiques de sécurité,Domaines d'expertise,"Logiciels, progiciels",1,K1906
+494626,Gestion de bases de données,Domaines d'expertise,"Logiciels, progiciels",1,M1423
+494776,Gestion de la migration des données,Domaines d'expertise,Langages informatiques,1,M1894
+481237,Gestion de la performance d'entreprise,Domaines d'expertise,Expertises techniques,1,M1851
+116414,Gestion de la relation client (CRM),Domaines d'expertise,"Logiciels, progiciels",1,M1405
+494915,Gestion de projets décisionnels,Domaines d'expertise,Expertises techniques,1,M1872
+478233,Gestion des incidents de sécurité,Techniques professionnelles,Autres techniques professionnelles,1,K1906
+121066,Gestion des risques (Risk Management),Normes et procédés,"Méthodes, procédés, procédures",1,M1811
+478452,Gestion des systèmes de contrôle d'accès,Normes et procédés,"Règlementations, normes",1,M1894
+495567,Gestion des utilisateurs et des permissions,Normes et procédés,"Règlementations, normes",1,M1894
+118820,Génie logiciel,Domaines d'expertise,Expertises scientifiques,1,M1868
+102788,HTML,Domaines d'expertise,Langages informatiques,1,M1824
+115923,Insights marketing,Domaines d'expertise,Expertises techniques,1,K2403
+495668,Intégration de bases de données avec des applications tierces,Domaines d'expertise,"Logiciels, progiciels",1,M1868
+479202,Intégration de données provenant de diverses sources,Techniques professionnelles,Autres techniques professionnelles,1,M1824
+495672,Intégration de l'IA dans des dispositifs mobiles,Domaines d'expertise,"Logiciels, progiciels",1,M1873
+495679,Intégration de systèmes d'intelligence artificielle,Domaines d'expertise,Expertises techniques,1,M1889
+104564,Langage C++,Domaines d'expertise,Langages informatiques,1,M1405
+495755,Leadership en gestion de projet,Domaines d'expertise,Expertises techniques,1,M1872
+404556,"Logiciels d'analyse des langages de programmation, de modélisation",Domaines d'expertise,Langages informatiques,1,K2403
+108816,Logique mathématique,Domaines d'expertise,Expertises scientifiques,1,K2403
+480869,Machine Learning,Domaines d'expertise,Langages informatiques,1,M1419
+495763,Machine learning pour l'analyse prédictive,Domaines d'expertise,Langages informatiques,1,M1423
+479209,Maintenance et mise à jour des solutions BI existantes,Techniques professionnelles,Autres techniques professionnelles,1,M1824
+495842,Maintenance préventive des bases de données,Normes et procédés,"Méthodes, procédés, procédures",1,M1894
+404560,"Maîtriser des logiciels SAS (Base, Macro, Stat, Graph) et R",Domaines d'expertise,"Logiciels, progiciels",1,K2403
+496181,Mise en place de data warehouses,Domaines d'expertise,"Logiciels, progiciels",1,M1423
+496194,Mise en place de réplications de données,Techniques professionnelles,Autres techniques professionnelles,1,M1894
+496171,Mise en œuvre de bases de données distribuées,Domaines d'expertise,Expertises techniques,1,M1868
+109365,Modélisation économique,Normes et procédés,"Méthodes, procédés, procédures",1,M1405
+116314,MySQL,Domaines d'expertise,Langages informatiques,1,M1419
+104418,"Méthodes d'analyse (systémique, fonctionnelle, de risques, ...)",Normes et procédés,"Méthodes, procédés, procédures",1,M1872
+103236,Méthodes de quantification,Normes et procédés,"Méthodes, procédés, procédures",1,M1414
+200036,Méthodologie SAFe,Normes et procédés,"Méthodes, procédés, procédures",1,M1872
+496267,Nettoyage de données,Techniques professionnelles,Autres techniques professionnelles,1,M1423
+477657,Optimisation de l'espace et des ressources,Domaines d'expertise,Expertises techniques,1,M1894
+496360,Optimisation de stockage de données,Techniques professionnelles,"Techniques manuelles, artisanales, industrielles",1,M1423
+496412,Optimisation des processus décisionnels,Domaines d'expertise,Expertises techniques,1,M1872
+496417,Optimisation des requêtes SQL,Techniques professionnelles,Autres techniques professionnelles,1,M1894
+476762,Planification d'expériences,Techniques professionnelles,Autres techniques professionnelles,1,M1414
+120532,Planification média,Domaines d'expertise,Expertises techniques,1,M1419
+476781,Planification stratégique,Domaines d'expertise,Expertises techniques,1,M1851
+110117,Principes d'optimisation des coûts,Normes et procédés,"Méthodes, procédés, procédures",1,M1851
+103026,Principes de rédaction du plan média,Normes et procédés,"Méthodes, procédés, procédures",1,M1419
+121126,Progiciels de gestion intégrée d'entreprise (ERP),Domaines d'expertise,"Logiciels, progiciels",1,M1872
+497372,Restauration de données après incident,Normes et procédés,"Méthodes, procédés, procédures",1,M1894
+480875,Rédaction technique informatique,Domaines d'expertise,Expertises techniques,1,M1894
+118303,Sciences médicales,Domaines d'expertise,Expertises médicales et paramédicales,1,K2403
+123284,Statistiques appliquées,Domaines d'expertise,"Logiciels, progiciels",1,M1419
+497719,Support technique aux utilisateurs de BI,Domaines d'expertise,Expertises techniques,1,M1872
+497729,Surveillance de la performance des bases de données,Domaines d'expertise,Langages informatiques,1,M1868
+109763,Système d'exploitation Linux,Domaines d'expertise,"Logiciels, progiciels",1,M1811
+109758,Système d'exploitation Unix,Domaines d'expertise,"Logiciels, progiciels",1,M1405
+109764,Système d'exploitation Windows,Domaines d'expertise,"Logiciels, progiciels",1,M1405
+113658,Systèmes automatisés,Domaines d'expertise,"Logiciels, progiciels",1,M1824
+477843,Sécurité des données,"Produits, outils et matières","Produits finis, services",1,M1423
+119702,Techniques d'exploration de données (data mining),Domaines d'expertise,Expertises techniques,1,M1824
+498956,Techniques d'optimisation pour IA,Domaines d'expertise,Expertises techniques,1,M1889
+404577,Techniques de rédaction scientifique,Domaines d'expertise,Expertises scientifiques,1,K2403
+498616,Techniques de réduction de la latence dans les systèmes embarqués,Domaines d'expertise,Expertises techniques,1,M1873
+404056,Technologies SPARK (Framework),Domaines d'expertise,Expertises techniques,1,M1868
+125870,Théorie des probabilités,Domaines d'expertise,Expertises scientifiques,1,M1414
+499337,Utilisation de TensorFlow et PyTorch,Domaines d'expertise,Langages informatiques,1,M1889
+499435,Veille technologique en BI,Domaines d'expertise,"Logiciels, progiciels",1,M1872
+499436,Veille technologique en intelligence artificielle,Domaines d'expertise,Langages informatiques,1,M1889
+103167,Veille technologique en métrologie,Normes et procédés,"Méthodes, procédés, procédures",1,K2403
+478242,Veille technologique en sécurité informatique,Domaines d'expertise,Expertises techniques,1,K1906
